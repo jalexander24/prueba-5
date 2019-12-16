@@ -1,4 +1,4 @@
-title: MI Pagina web
+title: Mi Pagina web
 author: Josue Baque
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -21,9 +21,12 @@ plainwhite:
   social_links:
     twitter: thelehhman
     github:  jalexander24
-    linkedIn: in/thelehhman
+    facebook: j.alexanderbaque
+    instagram: josuebaquea
+    telegram: jekyll
     rss: rss
     # dribbble: jekyll
+    # linkedIn: in/thelehhman
     # facebook: j.alexanderbaque
     # flickr:   jekyll
     # instagram: josuebaquea
