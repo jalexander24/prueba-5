@@ -1,5 +1,5 @@
-title: Your awesome title
-author: GitHub User
+title: MI Pagina web
+author: Josue Baque
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -20,7 +20,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: thelehhman
-    github:  thelehhman
+    github:  https://github.com/jalexander24
     linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
